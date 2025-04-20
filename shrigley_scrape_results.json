@@ -1,0 +1,40 @@
+{
+    "title": "Home - David Shrigley",
+    "text_content": [],
+    "icons": [
+        {
+            "platform": "instagram",
+            "url": "https://www.instagram.com/DavidShrigley/"
+        },
+        {
+            "platform": "com/davidshrigley",
+            "url": "https://twitter.com/davidshrigley"
+        },
+        {
+            "platform": "youtube",
+            "url": "https://www.youtube.com/user/Shrigleyfilms"
+        },
+        {
+            "platform": "facebook",
+            "url": "https://www.facebook.com/profile.php?id=100082030697663"
+        }
+    ],
+    "image_links": [
+        "/dist/images/icons/instagram.png",
+        "/dist/images/icons/tiktok.png",
+        "/dist/images/icons/twitter.png",
+        "/dist/images/icons/youtube.png",
+        "/dist/images/icons/facebook.png",
+        "/dist/images/icons/spotify.png",
+        "https://d3k792mnh7ruvm.cloudfront.net/colour-works/_880xAUTO_crop_center-center_none/The-Moon-Likes-The-Waves.jpg?v=1715783728",
+        "https://d3k792mnh7ruvm.cloudfront.net/bw-drawings/_880xAUTO_crop_center-center_none/All-Must-Own-One.jpg?v=1658181748",
+        "https://d3k792mnh7ruvm.cloudfront.net/printmaking/_880xAUTO_crop_center-center_none/David_Shrigley_-_Ghosts_LR_390bd829-299c-4f76-9881-6d9d7abe4690_900x.webp?v=1668685349",
+        "https://d3k792mnh7ruvm.cloudfront.net/animation/laundry.gif",
+        "https://d3k792mnh7ruvm.cloudfront.net/sculpture/_880xAUTO_crop_center-center_none/SHRIG-Mayfair-Tennis-Ball-Exchange-at-SFG-2021-6.jpg?v=1659455815",
+        "https://d3k792mnh7ruvm.cloudfront.net/photography/_880xAUTO_crop_center-center_none/lost-pigeon.jpg?v=1648638769",
+        "https://d3k792mnh7ruvm.cloudfront.net/music/_880xAUTO_crop_center-center_none/music-worried-noodles-cd.jpg?v=1659093304",
+        "https://d3k792mnh7ruvm.cloudfront.net/political-cartoons/_880xAUTO_crop_center-center_none/we_must_act2-640x368.jpg?v=1648721607",
+        "https://d3k792mnh7ruvm.cloudfront.net/books/_880xAUTO_crop_center-center_none/LongHaulcover_2122.webp?v=1706794161",
+        "https://d3k792mnh7ruvm.cloudfront.net/pulpedFiction/_880xAUTO_crop_center-center_none/AlunCallenderPhoto_DavidShrigley_0031_0333.jpg?v=1697808004"
+    ]
+}
